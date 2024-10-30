@@ -133,7 +133,7 @@ elif selected == "Experience":
         - Problem Solving
         - Team Leadership
         - Project Management
-        - Team Collab
+        - Team Collaboration 
         """)
 
 # Projects Section
@@ -205,10 +205,10 @@ elif selected == "Contact":
         
         ### Connect with me on:
         - [LinkedIn](http://www.linkedin.com/in/naresh-m-90796a141)
-        - [GitHub](your_github_url)
+        - [GitHub](https://github.com/naresh)
         
         ### Email
-        📧  nareshdharun17@gmailcom
+        📧  nareshdharun17@gmail.com
         """)
         
     with col2:
