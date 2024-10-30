@@ -204,8 +204,8 @@ elif selected == "Contact":
         I'm always interested in hearing about new opportunities and collaborations.
         
         ### Connect with me on:
-        - [LinkedIn](http://www.linkedin.com/in/naresh-m-90796a141)
-        - [GitHub](https://github.com/naresh)
+        - [LinkedIn](https://www.linkedin.com/in/naresh-m-90796a141/)
+        - [GitHub](https://github.com/NareshM1710)
         
         ### Email
         📧  nareshdharun17@gmail.com
