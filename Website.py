@@ -62,7 +62,7 @@ if selected == "About Me":
     col1, col2 = st.columns([2, 1])
     with col1:
         st.markdown("""
-        ### Data Storyteller | Analytics Expert | Problem Solver
+        ### Data Analytics | Visualization  | Manipulation
         
        Data Analyst with 2.8+ years of experience in data validation, analysis, and visualization, with a strong focus on 
        automation to streamline repetitive tasks. Proficient in Excel and skilled in transforming complex data into actionable 
@@ -76,8 +76,8 @@ if selected == "About Me":
         - 📈 Drive business decisions through data-driven insights
         
         ### My Toolbox
-        - **Skills**: Power BI, Excel, SQL , MS Suite, HubSpot, Zendesk, MS Power Automate, Python, DAX
-        - **Domain Knowledge**: Advanced Charts, Custom Visuals
+        - **Skills**: Power BI, DAX, Excel, SQL, Python, MS Power Automate, MS Suite, HubSpot, Zendesk.
+        - **Domain Knowledge**:  FMCG, Marketing Analytics  
         - **Core Competencies**: Data Analysis & Validation, Data Visualization, Automation & Process Optimization, 
                                  Market Research & Reporting, Cross-Functional Collaboration.
         - **Other Skills**: Automation , ETL
