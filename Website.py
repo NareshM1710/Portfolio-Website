@@ -64,8 +64,10 @@ if selected == "About Me":
         st.markdown("""
         ### Data Storyteller | Analytics Expert | Problem Solver
         
-        I'm a passionate Data Analyst with 3 years of experience transforming complex data into actionable insights. 
-        My journey in data analytics has been driven by curiosity and a desire to solve real-world problems through data.
+       Data Analyst with 2.8+ years of experience in data validation, analysis, and visualization, with a strong focus on 
+       automation to streamline repetitive tasks. Proficient in Excel and skilled in transforming complex data into actionable 
+       insights to support business decisions. Experienced in data collection, market research, and marketing analytics. Open 
+       to new opportunities and passionate about optimizing processes through data-driven solutions. 
 
         ### What I Do
         - 📊 Transform raw data into compelling stories
@@ -74,10 +76,11 @@ if selected == "About Me":
         - 📈 Drive business decisions through data-driven insights
         
         ### My Toolbox
-        - **Data Analysis**: Power BI, Excel, SQL
-        - **Visualization**: Advanced Charts, Custom Visuals
-        - **Database**: MySQL, PostgreSQL
-        - **Other Skills**: Python, ETL
+        - **Skills**: Power BI, Excel, SQL , MS Suite, HubSpot, Zendesk, MS Power Automate, Python, DAX
+        - **Domain Knowledge**: Advanced Charts, Custom Visuals
+        - **Core Competencies**: Data Analysis & Validation, Data Visualization, Automation & Process Optimization, 
+                                 Market Research & Reporting, Cross-Functional Collaboration.
+        - **Other Skills**: Automation , ETL
         """)
     
     with col2:
@@ -181,7 +184,7 @@ if selected == "Projects":
     excel_slider_placeholder = st.empty()
     
     # Navigation for Excel projects
-    if st.button("◀ Previous Excel Project"):
+    if st.button("◀ Previous Excel Projec"):
         excel_index = (excel_index - 1) % len(excel_projects)
     if st.button("▶ Next Excel Project"):
         excel_index = (excel_index + 1) % len(excel_projects)
