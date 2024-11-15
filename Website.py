@@ -77,7 +77,7 @@ if selected == "About Me":
         ### My Toolbox
         - **Data Analysis**: Power BI, Excel, SQL
         - **Visualization**: Advanced Charts, Custom Visuals
-        - **Database**: MySQL, PostgreSQL
+        - **Database**: MySQL, SQL
         - **Other Skills**: Python, ETL
         """)
     
@@ -187,9 +187,8 @@ elif selected == "Projects":
     st.subheader("SQL Projects")
 
     sql_projects = [
-        {"title": "Sales Data Analysis", "github": "https://github.com/yourgithub/sql-project1"},
-        {"title": "Customer Data Insights", "github": "https://github.com/yourgithub/sql-project2"},
-        {"title": "Employee Performance Report", "github": "https://github.com/yourgithub/sql-project3"},
+        {"title": "EDA Data Analysis", "github": "https://github.com/NareshM1710/Sales-EDA-SQL"},
+       
     ]
 
     for project in sql_projects:
@@ -200,9 +199,10 @@ elif selected == "Certifications":
     st.markdown("<h1 style='text-align: center;'>Certifications</h1>", unsafe_allow_html=True)
 
     certifications = [
-        {"title": "Data Science Certification", "link": "https://www.example.com/certification1"},
-        {"title": "SQL for Data Analysts", "link": "https://www.example.com/certification2"},
-        {"title": "Power BI Expert", "link": "https://www.example.com/certification3"},
+        {"title": "Power BI Desktop - Maven Analytics", "link": ""},
+        {"title": "Advanced Power BI Desktop (DAX) - LinkedIn", "link": ""},
+        {"title": "SQL for Data Analysis - LinkedIn ", "link": ""},
+        {"title": "Google Analytics 4 - Google", "link": ""},
     ]
 
     for cert in certifications:
