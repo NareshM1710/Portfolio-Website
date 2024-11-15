@@ -78,7 +78,7 @@ if selected == "About Me":
         - **Data Analysis**: Power BI, Excel, SQL, Looker Studio
         - **Visualization**: Advanced Charts, Custom Visuals
         - **Database**: MySQL, SQL
-        - **Other Skills**: Python, ETL
+        - **Other Skills**: Python, ETL, GA4
         """)
     
     with col2:
@@ -126,6 +126,9 @@ elif selected == "Experience":
         - Power Query 
         - Power Pivot
         - DAX
+        - Looker Studio
+        - Google Analytics
+        
 
         #### Business Skills
         - Data Storytelling
