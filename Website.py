@@ -75,7 +75,7 @@ if selected == "About Me":
         - 📈 Drive business decisions through data-driven insights
 
         ### My Toolbox
-        - **Data Analysis**: Power BI, Excel, SQL
+        - **Data Analysis**: Power BI, Excel, SQL, Looker Studio
         - **Visualization**: Advanced Charts, Custom Visuals
         - **Database**: MySQL, SQL
         - **Other Skills**: Python, ETL
