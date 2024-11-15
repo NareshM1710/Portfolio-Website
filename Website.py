@@ -168,7 +168,7 @@ elif selected == "Projects":
     st.subheader("Excel Dashboards")
 
     excel_projects = [
-        {"title": "Excel Dashboard", "description": "Call Center Dashboard", "img": "Excel Dashboard.jpg"}
+        {"title": "Excel Dashboard", "description": "Call Center Dashboard", "img": "Excel Dashboard.jpg"},
         {"title": "Excel Power Pivot", "description": "Power Pivot and Power Query Project", "img": "Excel PowerPivot.jpg"},
     ]
 
