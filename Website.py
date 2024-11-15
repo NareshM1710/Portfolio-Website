@@ -143,11 +143,11 @@ elif selected == "Projects":
     st.subheader("Power BI Dashboards")
 
     powerbi_projects = [
-        {"title": "Airline Loyalty Program", "description": "Interactive dashboard tracking loyalty program", "img": "Airline Loyalty Program.jpg"},
-        {"title": "Toy Store KPI Report", "description": "Tracks marketing ROI and KPI", "img": "Maven Toy Dashboard.jpg"},
-        {"title": "Survey Dashboard", "description": "Analyzes demographics and Survey on Data Professional Jobs", "img": "Survey Dashboard.jpg"},
-        {"title": "Uber Analytics Dashboard", "description": "Analyzes Rides Durations and Other KPI", "img": "Uber Analytics.jpg"},
-        {"title": "Plant Co. Performance Dashboard", "description": "Analyzes Performance of Plant Co.", "img": "Plant Co. Dashboard.jpg"},
+        {"img": "Airline Loyalty Program.jpg"},
+        {"img": "Maven Toy Dashboard.jpg"},
+        {"img": "Survey Dashboard.jpg"},
+        {"img": "Uber Analytics.jpg"},
+        {"img": "Plant Co. Dashboard.jpg"},
     ]
 
     powerbi_carousel_data = []
@@ -168,8 +168,8 @@ elif selected == "Projects":
     st.subheader("Excel Dashboards")
 
     excel_projects = [
-        {"title": "Excel Dashboard", "description": "Call Center Dashboard", "img": "Excel Dashboard.jpg"},
-        {"title": "Excel Power Pivot", "description": "Power Pivot and Power Query Project", "img": "Excel PowerPivot.jpg"},
+        { "img": "Excel Dashboard.jpg"},
+        { "img": "Excel PowerPivot.jpg"},
     ]
 
     excel_carousel_data = []
